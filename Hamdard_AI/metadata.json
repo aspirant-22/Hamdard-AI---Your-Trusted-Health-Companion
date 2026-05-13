@@ -1,0 +1,5 @@
+{
+  "name": "Hamdard - Rural Health Companion",
+  "description": "An AI-powered health assistant for rural India, providing voice triage, nutrition scanning, medicine advice, and emergency help in regional languages.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"]
+}
