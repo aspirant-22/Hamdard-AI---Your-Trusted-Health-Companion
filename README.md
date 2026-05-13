@@ -54,9 +54,10 @@ Speak symptoms in Hindi or English and get instant AI-powered health guidance.
 - Emergency escalation support
 
 ### 📸 Screenshot
-```md
-![Voice Triage](screenshots/voice-triage.png)
-```
+
+<img width="2876" height="1442" alt="Screenshot 2026-05-13 144027" src="https://github.com/user-attachments/assets/24de074e-145c-4211-8dfa-d32c0534f47c" />
+
+
 
 ---
 
@@ -70,9 +71,10 @@ Detect possible malnutrition risks in children using AI image analysis.
 - Basic dietary recommendations
 
 ### 📸 Screenshot
-```md
-![Nutrition Scan](screenshots/nutrition-scan.png)
-```
+
+<img width="2855" height="1435" alt="Screenshot 2026-05-13 144056" src="https://github.com/user-attachments/assets/a7274773-eb8d-40c0-8d3d-27df07b98aca" />
+
+
 
 ---
 
@@ -86,9 +88,10 @@ Scan medicines and understand dosage, usage, and precautions easily.
 - Dosage & safety guidance
 
 ### 📸 Screenshot
-```md
-![Medicine Advisor](screenshots/medicine-advisor.png)
-```
+
+<img width="2874" height="1429" alt="Screenshot 2026-05-13 144116" src="https://github.com/user-attachments/assets/04b8aa81-5dca-4546-bfa6-70c9e80dc3ab" />
+
+
 
 ---
 
@@ -102,10 +105,20 @@ Converts difficult prescriptions into simple understandable language.
 - Hindi + English explanation
 
 ### 📸 Screenshot
-```md
-![Prescription Explainer](screenshots/prescription-explainer.png)
-```
 
+<img width="2871" height="1428" alt="Screenshot 2026-05-13 144137" src="https://github.com/user-attachments/assets/5e9edc95-9a5c-45b8-8e06-74b6b6817cb1" />
+
+
+---
+
+
+## 🧠 AI Digital Therapist
+
+Provides emotional support and mental wellness guidance.
+
+### 📸 Screenshot
+
+<img width="2868" height="1434" alt="Screenshot 2026-05-13 144252" src="https://github.com/user-attachments/assets/ae744fcf-9601-4e46-a4d3-ee8850eb0678" />
 ---
 
 ## 🔍 Jargon Buster
@@ -113,9 +126,10 @@ Converts difficult prescriptions into simple understandable language.
 Explains complex medical terminology in simple everyday words.
 
 ### 📸 Screenshot
-```md
-![Jargon Buster](screenshots/jargon-buster.png)
-```
+
+<img width="2875" height="1434" alt="Screenshot 2026-05-13 144342" src="https://github.com/user-attachments/assets/821bb843-08f3-4f6a-be9c-ab1365ec32d4" />
+
+
 
 ---
 
@@ -124,9 +138,8 @@ Explains complex medical terminology in simple everyday words.
 Find nearby hospitals instantly with directions and map integration.
 
 ### 📸 Screenshot
-```md
-![Emergency Help](screenshots/emergency-help.png)
-```
+
+![Uploading Screenshot 2026-05-13 144413.png…]()
 
 ---
 
@@ -135,9 +148,10 @@ Find nearby hospitals instantly with directions and map integration.
 Private women’s health companion for cycle tracking and hygiene guidance.
 
 ### 📸 Screenshot
-```md
-![Period Tracker](screenshots/period-tracker.png)
-```
+
+<img width="2870" height="1441" alt="Screenshot 2026-05-13 144318" src="https://github.com/user-attachments/assets/57e1a0cc-88ed-45f8-a32d-926b773221ff" />
+
+
 
 ---
 
@@ -146,9 +160,10 @@ Private women’s health companion for cycle tracking and hygiene guidance.
 Simplifies medical test reports into easy-to-understand insights.
 
 ### 📸 Screenshot
-```md
-![Lab Report Analyzer](screenshots/lab-report.png)
-```
+
+<img width="2864" height="1441" alt="Screenshot 2026-05-13 144203" src="https://github.com/user-attachments/assets/fe5eda07-5e33-463b-8c44-8fbaad970855" />
+
+
 
 ---
 
@@ -157,20 +172,11 @@ Simplifies medical test reports into easy-to-understand insights.
 Analyze visible symptoms using AI-powered image understanding.
 
 ### 📸 Screenshot
-```md
-![Visual Symptom Checker](screenshots/visual-checker.png)
-```
 
----
+<img width="2871" height="1450" alt="Screenshot 2026-05-13 144231" src="https://github.com/user-attachments/assets/c3356f30-c853-49dd-8522-09fa3c406cb9" />
 
-## 🧠 AI Digital Therapist
 
-Provides emotional support and mental wellness guidance.
 
-### 📸 Screenshot
-```md
-![AI Therapist](screenshots/ai-therapist.png)
-```
 
 ---
 
