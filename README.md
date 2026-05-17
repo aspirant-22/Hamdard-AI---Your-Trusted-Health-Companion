@@ -119,6 +119,7 @@ Provides emotional support and mental wellness guidance.
 ### 📸 Screenshot
 
 <img width="2868" height="1434" alt="Screenshot 2026-05-13 144252" src="https://github.com/user-attachments/assets/ae744fcf-9601-4e46-a4d3-ee8850eb0678" />
+
 ---
 
 ## 🔍 Jargon Buster
@@ -139,7 +140,8 @@ Find nearby hospitals instantly with directions and map integration.
 
 ### 📸 Screenshot
 
-![Uploading Screenshot 2026-05-13 144413.png…]()
+<img width="958" height="407" alt="Screenshot 2026-05-17 181727" src="https://github.com/user-attachments/assets/84090160-61ae-47ac-8ada-a516d8677f90" />
+
 
 ---
 
