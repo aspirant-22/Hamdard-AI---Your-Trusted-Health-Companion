@@ -50,7 +50,7 @@ Speak symptoms in Hindi or English and get instant AI-powered health guidance.
 ### 📌 Features
 - Voice input & output
 - Local language support
-- Basic symptom guidance
+- Symptom guidance
 - Emergency escalation support
 
 ### 📸 Screenshot
@@ -68,7 +68,7 @@ Detect possible malnutrition risks in children using AI image analysis.
 ### 📌 Features
 - Child health scanning
 - Nutrition risk detection
-- Basic dietary recommendations
+- Dietary recommendations
 
 ### 📸 Screenshot
 
